@@ -1,0 +1,6 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">slider</custom-type>
+        <custom-type translate="1">banner</custom-type>
+    </custom-types>
+</wpml-config>

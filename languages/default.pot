@@ -1,0 +1,1389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pandora\n"
+"POT-Creation-Date: 2014-03-13 19:49+0100\n"
+"PO-Revision-Date: 2014-03-13 19:50+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/"
+"themes/pandora/\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/kievins/Sites/planetshine/pandora/woo/wp-"
+"content/themes/pandora\n"
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/404.php:11
+msgid "Page not found! Something has gone wrong. Sorry about that."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/comments.php:8
+msgid "Comments"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/comments.php:18
+msgid "Previous"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/comments.php:19
+msgid "Next"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/comments.php:26
+msgid "Add reply"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/header.php:38
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/template-functions.php:305
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/breadcrumb.php:208
+msgid "Page"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:155
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:844
+msgid "Install Required Plugins"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:156
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:845
+msgid "Install Plugins"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:157
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:846
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:169
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:858
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:171
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1840
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:859
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:172
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1538
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1085
+msgid "External Link"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1100
+msgid "Required"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1292
+msgid "Source"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1293
+msgid "Type"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1294
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-orders.php:32
+msgid "Status"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1312
+msgid "Install"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1313
+msgid "Activate"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1950
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1950
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/lib/tgmPluginActivation.class.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/panel/admin-templates.php:153
+msgid "All Sidebars"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/panel/admin-templates.php:168
+msgid "Create Sidebar"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/panel/admin-templates.php:187
+msgid "Manage Sidebars"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/panel/admin-templates.php:347
+msgid "Backup Settings"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/panel/admin-templates.php:361
+msgid "Import Settings"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/panel/admin-templates.php:374
+msgid "Import"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/panel/admin-templates.php:380
+msgid "Reset Settings"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/core/panel/admin-templates.php:382
+msgid "Reset Theme"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/settings.php:45
+msgid "Default"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/settings.php:47
+msgid "Default Sidebar"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/settings.php:55
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/settings.php:57
+msgid "Footer"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/shortcodes.php:14
+msgid "Welcome to <span>Pandora</span>, responsive Shopify theme"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/shortcodes.php:37
+msgid "Featured items"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/shortcodes.php:50
+msgid "view more items"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/shortcodes.php:92
+msgid "Popular items"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/shortcodes.php:147
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/shortcodes.php:178
+msgid "Special offers"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/shortcodes.php:194
+msgid "Latest posts"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/shortcodes.php:234
+msgid "Contacts &amp; Info"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:51
+msgid "Footer Menu"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:164
+msgid "Banner properties"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:178
+msgid "Web address that the banner will link to:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:186
+msgid "Select banner background:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:189
+msgid "Green"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:190
+msgid "Blue"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:191
+msgid "Orange"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:192
+msgid "Featured image"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:199
+msgid "Banner group (leave empty for a global banner):"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:236
+msgid "Slider properties"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:251
+msgid "Web address that the slide will link to:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:847
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/theme-functions.php:860
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/woocommerce.php:176
+msgid "Browse"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/woocommerce.php:178
+msgid "All categories"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/woocommerce.php:206
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/meta.php:22
+msgid "Tags"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/woocommerce.php:249
+msgid "Quick shop"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/woocommerce.php:280
+msgid "Share this item"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/woocommerce.php:298
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:21
+msgid "items"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/woocommerce.php:300
+msgid " in total"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/breadcrumbs.php:11
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/breadcrumbs.php:32
+msgid "Latest news"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/breadcrumbs.php:17
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:87
+msgid "Register"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/breadcrumbs.php:18
+msgid "Lost Password"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/breadcrumbs.php:19
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/form-login.php:35
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:47
+msgid "Login"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/breadcrumbs.php:45
+msgid "Step"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/breadcrumbs.php:47
+msgid " of "
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:21
+msgid "in total"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:22
+msgid "Checkout"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:26
+msgid "Logout?"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:27
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:32
+msgid "My account"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:52
+msgid "Log in"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:53
+msgid "username or e-mail"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:54
+msgid "password"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:61
+msgid "Forgot?"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:62
+msgid "Log-in"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/header.php:90
+msgid "Menu"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/loop-default-single.php:60
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/page.php:13
+msgid "Next page"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/loop-default-single.php:61
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/page.php:14
+msgid "Previous page"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/loop-product-list-item-small.php:11
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart.php:55
+msgid "View more"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/loop.php:26
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/templates/page.php:22
+msgid "no posts found!"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-newsletter-widget.php:13
+msgid "Display newsletter signup form."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-newsletter-widget.php:15
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-newsletter-widget.php:46
+msgid "Pandora Newsletter"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-newsletter-widget.php:59
+msgid "e-mail address"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-newsletter-widget.php:105
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-product-list-widget.php:225
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-recent-posts-widget.php:108
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-shop-info-widget.php:165
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-tweets-widget.php:94
+msgid "Title:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-newsletter-widget.php:108
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-shop-info-widget.php:168
+msgid "Description:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-newsletter-widget.php:112
+msgid "Setup newsletter in "
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-newsletter-widget.php:112
+msgid "theme settings"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-product-list-widget.php:16
+msgid "Display a list of products on your site. Styled directly for Pandora."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-product-list-widget.php:18
+msgid "Pandora Product List"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-product-list-widget.php:47
+msgid "Best Sellers"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-product-list-widget.php:228
+msgid "Number of products to show:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-product-list-widget.php:231
+msgid "What selection of products to show:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-product-list-widget.php:233
+msgid "Best sellers"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-product-list-widget.php:234
+msgid "Recently added"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-product-list-widget.php:235
+msgid "On sale"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-product-list-widget.php:236
+msgid "Top rated"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-product-list-widget.php:237
+msgid "Recently viewed"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-recent-posts-widget.php:13
+msgid "Display a list of Recent posts. Styled directly for Pandora."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-recent-posts-widget.php:15
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-recent-posts-widget.php:46
+msgid "Pandora Recent Posts"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-recent-posts-widget.php:65
+msgid "Read more"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-recent-posts-widget.php:111
+msgid "Number of posts to show:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-recent-posts-widget.php:115
+msgid "Display post date?"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-shop-info-widget.php:13
+msgid "Display information about your shop and accepted payment methods."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-shop-info-widget.php:15
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-shop-info-widget.php:46
+msgid "Pandora Shop Info"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-tweets-widget.php:13
+msgid "Display latest tweets."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-tweets-widget.php:15
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-tweets-widget.php:46
+msgid "Pandora Twitter feed"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-tweets-widget.php:97
+msgid "Widget id:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-tweets-widget.php:102
+msgid "Light"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/theme/widgets/pandora-tweets-widget.php:106
+msgid "Dark"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop-shop.php:40
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop/no-products-found.php:14
+msgid "No products found which match your selection."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:20
+msgid "Reviews"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:33
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:34
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:39
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:50
+msgid "Add Your Review"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:39
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:50
+msgid "Add Review"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:42
+msgid "Add a review"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:46
+msgid "Be the first to review"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:49
+msgid "There are no reviews yet, would you like to submit yours?"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:63
+msgid "Name"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:65
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:63
+msgid "Email"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:68
+msgid "Submit Review"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:75
+msgid "Rating"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:76
+msgid "Rate&hellip;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:77
+msgid "Perfect"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:78
+msgid "Good"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:79
+msgid "Average"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:80
+msgid "Not that bad"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:81
+msgid "Very Poor"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-empty.php:14
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-empty.php:18
+msgid "&larr; Return To Shop"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-shipping.php:55
+msgid ""
+"No shipping methods were found; please recalculate your shipping or continue "
+"to checkout and enter your full address to see if there is shipping "
+"available to your location."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-shipping.php:59
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-shipping.php:69
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-shipping.php:77
+#, php-format
+msgid "Sorry, shipping is unavailable %s."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-shipping.php:69
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-shipping.php:77
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-totals.php:19
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/review-order.php:66
+msgid "Cart Subtotal"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-totals.php:25
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-totals.php:65
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/review-order.php:72
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/review-order.php:112
+msgid "Coupon:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-totals.php:75
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-totals.php:78
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart-totals.php:87
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/review-order.php:122
+msgid "Order Total"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart.php:22
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/review-order.php:24
+msgid "Product name"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart.php:23
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/review-order.php:25
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/quantity-input.php:20
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/order-details.php:71
+msgid "Quantity"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart.php:24
+msgid "Price"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart.php:92
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart.php:129
+msgid "Coupon"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart.php:131
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart.php:139
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cart.php:140
+msgid "Update Cart"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/cross-sells.php:41
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/shipping-calculator.php:44
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/shipping-calculator.php:52
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/shipping-calculator.php:64
+msgid "State / county"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/shipping-calculator.php:53
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/cart-errors.php:20
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-billing.php:18
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-billing.php:22
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-edit-address.php:14
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-address.php:19
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-address.php:25
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/order-details.php:123
+msgid "Billing Address"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-billing.php:55
+msgid "Ship to a different address?"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-billing.php:71
+msgid "Create an account?"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-billing.php:82
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-checkout.php:58
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-checkout.php:119
+msgid "Continue to next step"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-checkout.php:58
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-checkout.php:119
+msgid "or"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-checkout.php:58
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-checkout.php:119
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:48
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:88
+msgid "Return to store"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-checkout.php:70
+msgid "How would you like to pay for you order?"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-checkout.php:106
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-checkout.php:108
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-coupon.php:17
+msgid "Have a coupon?"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-coupon.php:20
+msgid "Click here to enter your code"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-login.php:17
+msgid "Click here to login"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-pay.php:19
+msgid "Product"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-pay.php:78
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-shipping.php:31
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-edit-address.php:14
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-address.php:20
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/order-details.php:131
+msgid "Shipping Address"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/form-shipping.php:51
+msgid "Items(s) will be shipped to your billing address"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/review-order.php:26
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/thankyou.php:45
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-orders.php:33
+msgid "Total"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/review-order.php:156
+msgid "Place order"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/review-order.php:161
+msgid "I have read and accept the"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/review-order.php:161
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/thankyou.php:30
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-orders.php:70
+msgid "Pay"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/thankyou.php:32
+msgid "My Account"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/thankyou.php:38
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/thankyou.php:71
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/thankyou.php:43
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-orders.php:30
+msgid "Order"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/thankyou.php:44
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-orders.php:31
+msgid "Date"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/checkout/thankyou.php:46
+msgid "Payment method"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/breadcrumb.php:17
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/breadcrumb.php:69
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/breadcrumb.php:92
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/breadcrumb.php:194
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/breadcrumb.php:152
+msgid "Error 404"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/breadcrumb.php:198
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/breadcrumb.php:203
+msgid "Author:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/breadcrumb.php:219
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/breadcrumb.php:222
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/form-login.php:22
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:25
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/form-login.php:26
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:29
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:67
+msgid "Password"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/form-login.php:38
+msgid "Remember me"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/global/form-login.php:42
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:35
+msgid "Lost your password?"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop/orderby.php:18
+msgid "Sort by"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop/orderby.php:22
+msgid "Default sorting"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop/orderby.php:23
+msgid "Popularity"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop/orderby.php:24
+msgid "Average rating"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop/orderby.php:25
+msgid "Newness"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop/orderby.php:26
+msgid "Price: low to high"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop/orderby.php:27
+msgid "Price: high to low"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/loop/result-count.php:32
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-change-password.php:20
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-lost-password.php:37
+msgid "New password"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-change-password.php:24
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-lost-password.php:41
+msgid "Re-enter new password"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-change-password.php:33
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-lost-password.php:52
+msgid "Save"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-edit-address.php:45
+msgid "Save Address"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:40
+msgid "Don't have an account? Register."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:57
+msgid "Username"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:71
+msgid "Re-enter password"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-login.php:76
+msgid "Already have an account? Login."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-lost-password.php:25
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-lost-password.php:34
+msgid "Enter a new password below."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/form-lost-password.php:52
+msgid "Reset Password"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-address.php:53
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-address.php:58
+msgid "Edit"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-downloads.php:21
+msgid "Available downloads"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-downloads.php:30
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-orders.php:61
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/myaccount/my-orders.php:76
+msgid "View"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/order-details.php:18
+msgid "Order Details"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/order-details.php:58
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/order-details.php:105
+msgid "Order Again"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/order-details.php:115
+msgid "Customer details"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/order-details.php:117
+msgid "Email:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/order-details.php:118
+msgid "Telephone:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/order-details.php:125
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/order-details.php:133
+msgid "N/A"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/tracking.php:18
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/tracking.php:18
+msgid "ago"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/tracking.php:20
+msgid "and was completed"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/tracking.php:20
+msgid " ago"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/order/tracking.php:31
+msgid "Order Updates"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/meta.php:15
+msgid "Category"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/meta.php:29
+msgid "SKU:"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/price.php:20
+msgid "Sold Out!"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/related.php:35
+msgid "Related Products"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/review.php:30
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/review.php:38
+msgid "verified owner"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/review.php:65
+msgid "M jS, Y"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/sale-flash.php:14
+msgid "Sale!"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/up-sells.php:33
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/variants.php:20
+msgid "Select"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/add-to-cart/grouped.php:64
+msgid "Add to cart"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/add-to-cart/grouped.php:66
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/add-to-cart/simple.php:39
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/add-to-cart/variable.php:36
+msgid "Item added to cart!"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr ""
+
+#: /Users/kievins/Sites/planetshine/pandora/woo/wp-content/themes/pandora/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
